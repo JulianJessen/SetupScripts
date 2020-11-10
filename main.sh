@@ -1,5 +1,6 @@
 #!/bin/bash
 
-source $(dirname "$0")/first.sh
+#source $(dirname "$0")/first.sh
 
-func1 World
+#func1 World
+#https://wiki.ubuntuusers.de/Howto/Dialog-Optionen/
