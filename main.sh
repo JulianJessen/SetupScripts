@@ -4,3 +4,5 @@
 
 #func1 World
 #https://wiki.ubuntuusers.de/Howto/Dialog-Optionen/
+
+# https://wiki.ubuntuusers.de/Dialog/
