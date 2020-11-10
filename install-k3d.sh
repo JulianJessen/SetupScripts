@@ -1,4 +1,4 @@
-use the install script to grab the latest release:
+
 
 function selectVersion() {
   dialog \
@@ -20,6 +20,7 @@ function main() {
 
 main
 
+#use the install script to grab the latest release:
 #wget: wget -q -O - https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash
 #curl: curl -s https://raw.githubusercontent.com/rancher/k3d/main/install.sh | bash
 #use the install script to grab a specific release (via TAG environment variable):
